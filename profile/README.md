@@ -1,10 +1,29 @@
 ## Hi there 👋
 
-We are Kern AI, a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at shortening the data-centric AI lifecycle, in that you can easily create and manage large amounts of high-quality training data within hours.
+We are [Kern AI](https://kern.ai/about/team), a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at shortening the data-centric AI lifecycle, in that you can easily create and manage large amounts of high-quality training data within hours.
 
-In the next weeks, you'll see that the amount of repositories will become larger and larger, as we aim to open-source our work further. That definitely means that you should check out our organization every once in a while, or at least register for our newsletter on our [website](https://www.kern.ai/).
+[![refinery repository](../GitHub%20Banner.png)](https://github.com/code-kern-ai/refinery)
 
-If you're interested in reaching out to us for any kind of reason, please don't hesitate. We're happy to help! 😄
+
+We are now releasing [Kern AI refinery](https://github.com/code-kern-ai/refinery) (abbr. _refinery_), the open-source data-centric IDE for NLP. It is our **main product**, which we've built for the last 18 months. _refinery_ is like the data-centric sibling of your favorite programming environment. It provides an easy-to-use interface for weak supervision as well as extensive data management, neural search and monitoring to ensure that the quality of your training data is as good as possible.
+
+### Your benefits
+You gain better insights into the data labeling workflow, receive an implicit documentation for your training data (which you can use to discuss findings), and can ultimately build better models in shorter time.
+
+Our goal is to make labeling feel more like a programmatic and enjoyable task, instead of something tedious and repetitive. _refinery_ is our contribution to this goal. And we're constantly aiming to improve this contribution.
+
+If you like what we're working on, please leave a ⭐! 
+
+## 🪢 Community and contact
+Feel free to join our community spaces, where we'll discuss about recent findings in data-centric AI:
+- [Discord](https://discord.gg/qf4rGCEphW)
+- [Our forum](https://discuss.kern.ai/)
+
+We send out a (mostly) weekly newsletter about recent findings in data-centric AI, product highlights in development and more. You can subscribe to the newsletter [here](https://www.kern.ai/resources/newsletter). 
+
+Also, you can follow us on [Twitter](https://twitter.com/MeetKern) and [LinkedIn](https://www.linkedin.com/company/kern-ai).
+
+To reach out to us, please use our [contact formula](https://www.kern.ai/contact).
 
 <p>
     <a href="https://discuss.kern.ai/"><img src="https://img.shields.io/badge/Forum-F5D14E.svg?logo=discourse" alt="Discourse"></a>
