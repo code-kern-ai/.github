@@ -2,7 +2,7 @@
 
 We are [Kern AI](https://kern.ai/about/team), a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at shortening the data-centric AI lifecycle, in that you can easily create and manage large amounts of high-quality training data within hours.
 
-[![refinery repository](../GitHub%20Banner.png)](https://github.com/code-kern-ai/refinery)
+[![refinery repository](https://uploads-ssl.webflow.com/61e47fafb12bd56b40022a49/62d1a5da3b2cdfb018cc4ffb_GitHub%20Banner.png)](https://github.com/code-kern-ai/refinery)
 
 
 We are now releasing [Kern AI refinery](https://github.com/code-kern-ai/refinery) (abbr. _refinery_), the open-source data-centric IDE for NLP. It is our **main product**, which we've built for the last 18 months. _refinery_ is like the data-centric sibling of your favorite programming environment. It provides an easy-to-use interface for weak supervision as well as extensive data management, neural search and monitoring to ensure that the quality of your training data is as good as possible.
