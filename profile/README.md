@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are [Kern AI](https://kern.ai/about/team), a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at shortening the data-centric AI lifecycle, in that you can easily create and manage large amounts of high-quality training data within hours.
+We are [Kern AI](https://kern.ai/team), a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at shortening the data-centric AI lifecycle, in that you can easily create and manage large amounts of high-quality training data within hours.
 
 ![refinery repository](https://uploads-ssl.webflow.com/61e47fafb12bd56b40022a49/62c2f30f935f4d37dc864eeb_Kern%20refinery.png)
 
