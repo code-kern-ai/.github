@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are [Kern AI](https://www.kern.ai/company/about), a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at improving the data-centric AI lifecycle.
+We are [Kern AI](https://www.kern.ai/company/about-us), a team of ambitious data engineers and scientists aiming to make your life as a developer a bit easier. Our libraries and tools aim at improving the data-centric AI lifecycle.
 
 We mainly maintain and publish [refinery](https://github.com/code-kern-ai/refinery), the data scientist's open-source choice to scale, assess and maintain natural language data. Also, we maintain [bricks](https://github.com/code-kern-ai/bricks), a collection of open-source modular NLP enrichments.
 
